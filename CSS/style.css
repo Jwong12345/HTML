@@ -1,0 +1,24 @@
+h1 {
+    color:blue;
+} 
+body {
+    background-color:darksalmon;
+}
+.image1 {
+    height: 450px;
+    width: 400px;
+}
+.image2 {
+    height: 450px;
+    width: 400px;
+}
+.image3 {
+    height: 450px;
+    width: 400px;
+}
+.incline-block {
+    display: inline-block;
+}
+p.bold {
+    font-weight: bold;
+}

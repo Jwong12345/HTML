@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo {
+    width: 100px;
+}
+/* ul {
+    text-align: center;
+    list-style: none;
+}
+li {
+    display: inline-block;
+    font-weight: bold;
+} */
+.banner {
+    width: 90%;
+    margin: 0 auto;
+    line-height: 100px;
+    text-align: center;
+}
+header{
+    width: 100%;
+    height: 100px;
+    background-color: orange;
+}
+nav a{
+    text-decoration: none;
+    letter-spacing: 6px;
+    color: white;
+    font-family: sans-serif;
+    padding: 36px 10px;
+    font-size: 8px;
+}
+nav a:hover{
+    background: white;
+    color: black;
+    font-weight: bold;
+}
+/* form {
+    text-align: left;
+    background-color: black;
+    color:white;
+    width:fit-content;
+    padding: 30px 10px;
+} */
+section {
+    margin: 10px 200px;
+    background-image: url('/images/c1x.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}   
+.mb-3 {
+    margin-left: 500px;
+}
+.mid-pic {
+    text-align: center;
+}
+.contact {
+    text-align: center;
+}
