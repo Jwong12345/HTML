@@ -1,0 +1,2 @@
+# Project/Coursework Collection
+The combination of everything I am working on and what I learned when starting the training program with AlphaPrimeTech. It has the coursework, what was covered in class, and what I applied it to through projects. The GitHub page link is messed up because it leads to the first test website I made since the code is on the outside of all of my folders. The rest of the pages are in separate repositories with the same name. 
