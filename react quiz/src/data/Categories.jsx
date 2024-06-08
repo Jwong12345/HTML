@@ -1,0 +1,21 @@
+const Categories = [
+    { category: "General Knowledge", value: 9},
+    { category: "Books", value: 10},
+    { category: "Film", value: 11},
+    { category: "Music", value: 12},
+    { category: "Musicals & Theatres", value: 13},
+    { category: "Televisions", value: 14},
+    { category: "Video Games", value: 15},
+    { category: "Board Games", value: 16},
+    { category: "Science and Nature", value: 17},
+    { category: "Computer", value: 18},
+    { category: "Math", value: 19},
+    { category: "Mythology", value: 20},
+    { category: "Sports", value: 21},
+    { category: "Geography", value: 22},
+    { category: "History", value: 23},
+    { category: "Politics", value: 24},
+    { category: "Art", value: 25},
+    { category: "Celebrities", value: 26},
+    { category: "Animals", value: 27}
+]
